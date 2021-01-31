@@ -1,4 +1,11 @@
-import UIKit
+//
+//  TwoSumProblem.swift
+//  
+//
+//  Created by Ankur on 31/1/21.
+//
+
+import Foundation
 
 // https://leetcode.com/problems/two-sum/
 
