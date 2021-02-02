@@ -1,6 +1,6 @@
 # Leetcode
 
-The solutions of the problem is written in Swift.
+The solutions of the following Leetcode problem is written in Swift.
 
 **Array**
 
