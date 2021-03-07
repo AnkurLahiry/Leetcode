@@ -16,6 +16,9 @@ The solutions of the following Leetcode problem is written in Swift.
 10) [Product Sum](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Product%20Sum/ProductSum.swift)
 11) [Search in 2D Array](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Search%202D%20Array/SearchIn2DArray.swift)
 12) [Validate Stack Sequence](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Validate%20Stack%20Sequence/ValidateStackSequence.swift)
+13) Search in A Sorted Array I](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Search%20In%20a%20Sorted%20Array/Search%20in%20a%20Sorted%20Array/SearchInASortedArray.swift)
+14) [Search in A Sorted Array II](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Search%20In%20a%20Sorted%20Array/Search%20A%20Sorted%20Rotated%20Array/SearchInARotatedArray.swift)
+15) [Merge Intervals](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Intervals/Merge%20Intervals/MergeIntervals.swift)
 
 **Backtrack**
 1) [combination Sum - I](https://github.com/AnkurLahiry/Leetcode/blob/main/Backtrack/Combination%20Sum/CombinationSum-I.swift)
