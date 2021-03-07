@@ -37,5 +37,6 @@ The solutions of the following Leetcode problem is written in Swift.
 1) [Average of a Binary Tree](https://github.com/AnkurLahiry/Leetcode/blob/main/Tree/Average%20Of%20Binary%20Trees/AverageBinaryTree.swift)
 
 **Design Problems**
-1) [Design Hashmap](https://github.com/AnkurLahiry/Leetcode/blob/main/Design%20Problems/DesignHashmap.swift)
+1) [Design Hashmap](https://github.com/AnkurLahiry/Leetcode/blob/main/Design%20Problems/Design%20HashMap/DesignHashmap.swift)
+2) [Design Twitter](https://github.com/AnkurLahiry/Leetcode/blob/main/Design%20Problems/Design%20Twitter/DesignTwitter.swift)
 
