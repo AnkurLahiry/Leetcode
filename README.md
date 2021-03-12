@@ -19,6 +19,7 @@ The solutions of the following Leetcode problem is written in Swift.
 13) [Search in A Sorted Array I](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Search%20In%20a%20Sorted%20Array/Search%20in%20a%20Sorted%20Array/SearchInASortedArray.swift)
 14) [Search in A Sorted Array II](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Search%20In%20a%20Sorted%20Array/Search%20A%20Sorted%20Rotated%20Array/SearchInARotatedArray.swift)
 15) [Merge Intervals](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Intervals/Merge%20Intervals/MergeIntervals.swift)
+16) [Set Zero to Matrix](https://github.com/AnkurLahiry/Leetcode/blob/main/Array/Set%20Matrix%20Zero/SetMatrixZero.swift)
 
 **Backtrack**
 1) [combination Sum - I](https://github.com/AnkurLahiry/Leetcode/blob/main/Backtrack/Combination%20Sum/CombinationSum-I.swift)
@@ -38,6 +39,10 @@ The solutions of the following Leetcode problem is written in Swift.
 
 **Tree**
 1) [Average of a Binary Tree](https://github.com/AnkurLahiry/Leetcode/blob/main/Tree/Average%20Of%20Binary%20Trees/AverageBinaryTree.swift)
+2) [Add One Row to Tree](https://github.com/AnkurLahiry/Leetcode/blob/main/Tree/Add%20One%20Row%20To%20Tree/AddOneRowToTree.swift)
+
+**String**
+1) [Remove Palindromic Subsequence](https://github.com/AnkurLahiry/Leetcode/blob/main/String/Remove%20Palidromic%20Subsequence/RemovePalindromicSubsequence.swift)
 
 **Design Problems**
 1) [Design Hashmap](https://github.com/AnkurLahiry/Leetcode/blob/main/Design%20Problems/Design%20HashMap/DesignHashmap.swift)
