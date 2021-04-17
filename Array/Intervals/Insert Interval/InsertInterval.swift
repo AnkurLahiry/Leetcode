@@ -1,8 +1,9 @@
-
-//https://leetcode.com/problems/merge-intervals/
+// https://leetcode.com/problems/insert-interval/
 
 class Solution {
-    func merge(_ intervals: [[Int]]) -> [[Int]] {
+    func insert(_ intervals: [[Int]], _ newInterval: [Int]) -> [[Int]] {
+        var intervals = intervals
+        intervals.append(newInterval)
         var sortedIntervals = intervals.sorted(by: { first, second in 
             return first[0] < second[0] 
         })
